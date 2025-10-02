@@ -11,8 +11,11 @@
 >Responsive and clean UI
 
 **Review**
->link: 
+
+>link: https://ray-borres.github.io/burger_byte-creatednote.web/
+
 **File Structure**
+
 burger_byte/
 │── index.html
 │── css.css
